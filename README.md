@@ -9,7 +9,7 @@
 
 - Cool Dinosaur facts: A lot of people would think my favorite Dinosaur (animal living today) would be a shark just because i know a lot of - facts about them... but honestly my favorite Dinosaur is a stegosarus aka STEGO, they're very nice creatures unless provoked then they'd - have to fight since they can't HIDE very well.
 
-- Also another cool fact i've learned so far while learning cybersecurity & pentesting during self teaching or in the owlsec discord is that password lists are good for brute forcing especially if it's a custom social engineered password list. but nowadays bruteforcing is becoming 
+- Also another cool fact i've learned so far while learning cybersecurity & pentesting during self teaching or in the owlsec discord is that password lists are good for brute forcing especially if it's a custom social engineered password list. but nowadays bruteforcing is becoming (remember humans are the weakest link in security chains)
 - harder to accomplish and is not how it use to be in th past. Hopefully this can help me become part of the "owlsec" team. 
 - owlsec for life <3
 
