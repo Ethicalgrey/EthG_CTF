@@ -1,8 +1,8 @@
-- # EthG_CTF
-- # OwlSec
-- # BruteForce
-- # hash crackers
-- # Data Hiding
+# EthG_CTF
+# OwlSec
+# BruteForce
+# hash crackers
+# Data Hiding
 
 - my first CTF for OWLSEC, shouldn't be to hard. beginner friendly :)
 - worse part about CTFs that i've learned and experianced are rabbit holes... never want to go down one of those, just need to find the right path to finish this OWLSEC ctf or maybe sometimes the answer is right infront of you.
